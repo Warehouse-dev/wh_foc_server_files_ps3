@@ -1,5 +1,6 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.5 is live! Go go Scientists!
+MessageOfTheDay=Patch 1.6.2 is here! Headhunter fixed?!
+;; 1.6.2 motd?
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Cartridge
