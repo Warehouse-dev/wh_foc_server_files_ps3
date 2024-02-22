@@ -5,67 +5,31 @@ MessageOfTheDay=Patch 1.8 has arrived! Here's to another year of Fall of Cybertr
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Cartridge
 Description=Increases the amount of ammo within a clip
-;; Replacing Heavy Hands with Ion Cartridge
 
 [ShotgunFireInterval TnDataProvider_WeaponUpgrade]
-FriendlyName=Force Feedback
-Description=Reduces weapon recoil
-;; Replacing Sonic Blast with Force Feedback
-
-[ShotgunFireIntervalEsc TnDataProvider_WeaponUpgrade]
-FriendlyName=Ion Catridge
-Description=Increase the amount of ammo within a clip
+FriendlyName=Sonic Blast
+Description=Increases weapon's rate of fire
+;; Replacing Force Feedback with Sonic Blast ; 21/2/2024 -legion
 
 [HoverMovementBasedDrainRate TnDataProvider_Skill]
 FriendlyName=Aerial Camper
-Description=Increases Hover duration
-;; Renaming Synthetic Fuel to Aerial Camper
+Description=Hover resource new regenerates when not moving
+;; Replacing Synthetic Fuel with Aerial Camper ; 21/2/2024 -legion
 
 [HeavyPistolFireInterval TnDataProvider_WeaponUpgrade]
-FriendlyName=Hyper Interlink
-Description=Speeds up reload time by 50%
-;; Replacing Sonic Blast with Hyper Interlink
+FriendlyName=Sonic Blast
+Description=Increases weapon's rate of fire
+;; Replacing Hyper Interlink with Sonic Blast ; 21/2/2024 -legion
 
 [SniperRifleHitsCharge TnDataProvider_WeaponUpgrade]
-FriendlyName=Tachyon Transmitter
+FriendlyName=Deadeye
 Description=Using Fine Aim no longer slows you down
-;; Replacing Dead Eye with Tachyon Transmitter
+;; Replacing Tachyon Transmitter with Deadeye ; 21/2/2024 -legion
 
 [IonBlasterIncreaseAccuracy TnDataProvider_WeaponUpgrade]
-FriendlyName=Turbo Booster
-Description=Increases movement speed when hitting an enemy
-;; Replacing Cyber Optics with Turbo Booster
-
-[SniperRifleLargerClip TnDataProvider_WeaponUpgrade]
-FriendlyName=Dominator
-Description=Quickly chaining together kills significantly reduces charge time
-;; Replacing Ion Cartridge with Dominator
-
-[SentryResourceDrainRate TnDataProvider_Skill]
-FriendlyName=Sentry Armor
-Description=Increased plating gives the sentry more durability
-;; Replacing Resource Recycler with Sentry Armor
-
-[CloakResourceDrainRate TnDataProvider_Skill]
-FriendlyName=Dimensional Step
-Description=Reduces damage taken after exiting Cloak
-;; Replacing Specter with Dimensional Step ;; 11/2/2024 -legion
-
-[BarrierOneWayView TnDataProvider_Skill]
-FriendlyName=Blaster Amplifier
-Description=Increases ammo capacity for all weapons
-;; Replacing One-Way Barrier with Blaster Amplifier ;; 11/2/2024 -legion
-
-[HeavyMGIncreaseAccuracy TnDataProvider_WeaponUpgrade]
-FriendlyName=Energon Rush
-Description=Increases weapon accuracy
-MpDescription=Increases foot speed while the weapon is firing
-;; Replacing Cyber Optics with Energon Rush ;; 11/2/2024 -legion
-
-[DrainGunRange TnDataProvider_WeaponUpgrade]
 FriendlyName=Cyber Optics
 Description=Increases weapon accuracy
-;; Replacing R-Finder Infinity with Cyber Optics ;; 11/2/2024 -legion
+;; Replacing Turbo Booster with Cyber Optics ; 21/2/2024 -legion
 
 [Metadata]
 EditedBy=Aibot
@@ -78,4 +42,3 @@ Changes=Patch 1.2 motd
 Changes=Patch 1.3 motd
 Changes=Patch 1.4 motd and destroyer upgrade renaming
 Changes=Patch 1.5 motd
-Changes=Patch 1.6 motd
