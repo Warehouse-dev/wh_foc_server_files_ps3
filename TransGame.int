@@ -1,39 +1,35 @@
 [TnGameReplicationInfo]
-MessageOfTheDay=Patch 1.6.2 is here! Headhunter fixed?!
-;; 1.6.2 motd?
+MessageOfTheDay=Patch 1.8 has arrived! Here's to another year of Fall of Cybertron.
+;; 1.8 motd??
 
 [ShotgunLargerClip TnDataProvider_WeaponUpgrade]
 FriendlyName=Ion Cartridge
 Description=Increases the amount of ammo within a clip
-;; Reverting Heavy Hands back to Ion Cartridge
 
 [ShotgunFireInterval TnDataProvider_WeaponUpgrade]
-FriendlyName=Force Feedback
-Description=Decrease weapon recoil
-
-[ShotgunFireIntervalEsc TnDataProvider_WeaponUpgrade]
-FriendlyName=Ion Catridge
-Description=Increase the amount of ammo within a clip
+FriendlyName=Sonic Blast
+Description=Increases weapon's rate of fire
+;; Replacing Force Feedback with Sonic Blast ; 21/2/2024 -legion
 
 [HoverMovementBasedDrainRate TnDataProvider_Skill]
-FriendlyName=Synthetic Fuel
-Description=Increases Hover recharge rate
-;; Replacing Aerial Camper with Synthetic Fuel : 6/7/2023  -legion
+FriendlyName=Aerial Camper
+Description=Hover resource new regenerates when not moving
+;; Replacing Synthetic Fuel with Aerial Camper ; 21/2/2024 -legion
 
 [HeavyPistolFireInterval TnDataProvider_WeaponUpgrade]
-FriendlyName=Hyper Interlink
-Description=Speeds up reload time by 50%
-;; Replacing Sonic Blast with Hyper Interlink
+FriendlyName=Sonic Blast
+Description=Increases weapon's rate of fire
+;; Replacing Hyper Interlink with Sonic Blast ; 21/2/2024 -legion
 
 [SniperRifleHitsCharge TnDataProvider_WeaponUpgrade]
-FriendlyName=Tachyon Transmitter
+FriendlyName=Deadeye
 Description=Using Fine Aim no longer slows you down
-;; Replacing Dead Eye with Tachyon Transmitter
+;; Replacing Tachyon Transmitter with Deadeye ; 21/2/2024 -legion
 
 [IonBlasterIncreaseAccuracy TnDataProvider_WeaponUpgrade]
-FriendlyName=Turbo Booster
-Description=Increases movement speed when hitting an enemy
-;; Replacing Cyber Optics with Turbo Booster
+FriendlyName=Cyber Optics
+Description=Increases weapon accuracy
+;; Replacing Turbo Booster with Cyber Optics ; 21/2/2024 -legion
 
 [Metadata]
 EditedBy=Aibot
